@@ -603,6 +603,50 @@ progress {
   max-width: 100%;
   height: auto;
 }
+.img-prototype {
+  max-width: 75%;
+  height: auto;
+  }
+  
+.img-process-difficulty {
+   max-width: 75%;
+  height: auto;
+  }
+
+.img-recycle-participation {
+  max-width: 75%;
+  height: auto;
+  }
+
+.img-charger-storage {
+  max-width: 75%;
+  height: auto;
+  }
+
+.img-impact {
+  max-width: 75%;
+  height: auto;
+}
+.img-sources {
+  max-width: 75%;
+  height: auto;
+}
+.img-quotes {
+  max-width: 75%;
+  height: auto;
+}
+.img-incentives {
+  max-width: 75%;
+  height: auto;
+}
+.img-prototype {
+  max-width: 75%;
+  height: auto;
+}
+.img-box {
+  max-width: 100%;
+  height: auto;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
